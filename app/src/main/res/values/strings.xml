@@ -2,4 +2,6 @@
     <string name="app_name">LOLChallenger</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_active_games">ActiveGames</string>
+    <string name="title_activity_join_game">JoinGame</string>
 </resources>
